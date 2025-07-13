@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![image alt](https://github.com/tehreemamir123/My_Chat_App/blob/b2abc1776ff93754b9663b534880520813bb1c2e/Screenshot%202025-07-13%20161514.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
